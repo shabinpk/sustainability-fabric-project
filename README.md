@@ -9,7 +9,7 @@ This project was built to practice and understand the core components of Microso
 
 - Lakehouse storage
 - Data pipelines
-- Notebook-based transformations (PySpark)
+- Notebook-based transformations (Pandas in Fabric Notebook)
 - Dimensional modeling (Star Schema)
 - Semantic modeling
 - Power BI report creation inside Fabric
@@ -140,7 +140,7 @@ The report was designed primarily to validate the semantic model and relationshi
 - Microsoft Fabric
 - Lakehouse
 - Fabric Pipelines
-- Fabric Notebooks (PySpark)
+- Fabric Notebooks (Pandas in Fabric Notebook)
 - Power BI (Fabric Report View)
 - GitHub (Version Control & Documentation)
 
