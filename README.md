@@ -181,8 +181,13 @@ Report view
 
 ## Note
 
-This project focuses on understanding Fabric architecture and workflow.  
-It is not intended to represent a production-grade data engineering solution.
+This project focuses on understanding Microsoft Fabric architecture and end-to-end workflow.
+It is not intended to represent a production-grade solution.
+
+The report uses Direct Lake mode in Microsoft Fabric.
+Because of this configuration, a standalone .pbix file with embedded data is not available.
+
+Screenshots and notebook logic are provided to demonstrate the architecture and implementation.
 
 ---
 
