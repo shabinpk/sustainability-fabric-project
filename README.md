@@ -135,6 +135,17 @@ The report was designed primarily to validate the semantic model and relationshi
 
 ---
 
+---
+
+## Key Observations
+
+- CO₂ emissions show an overall upward trend between 2000–2022.
+- CO₂ intensity varies significantly across countries relative to GDP.
+- A small number of countries account for a large share of total emissions and energy consumption.
+- Energy consumption and emissions do not scale uniformly across economies.
+
+---
+
 ## Tools Used
 
 - Microsoft Fabric
